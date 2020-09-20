@@ -1,0 +1,2 @@
+# IMAGEN A CONSTRUIR
+FROM ubuntu:20.04
