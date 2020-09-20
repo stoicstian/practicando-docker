@@ -37,7 +37,9 @@ INSTALLED_APPS = [
     "django.contrib.sessions",
     "django.contrib.messages",
     "django.contrib.staticfiles",
-    "predition.apps.PreditionConfig",
+    # "predition.apps.PreditionConfig",
+    "rest_framework",
+    "api_basic.apps.ApiBasicConfig",
 ]
 
 MIDDLEWARE = [
